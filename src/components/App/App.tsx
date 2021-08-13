@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import logo from '../../assets/logo.svg'
-import './App.css'
+import './App.scss'
 
 const App: FC = () => {
     return (
