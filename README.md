@@ -1,3 +1,6 @@
+# react-template
+Simple react template project. Initialized with create-react-app, typescript, prettier, eslint, and sass
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
